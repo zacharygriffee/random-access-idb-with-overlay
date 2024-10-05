@@ -1,7 +1,3 @@
-Certainly! Below is the **updated README** for your library **random-access-idb-with-overlay** (*RAIWO*). This version incorporates the correct library name and updates the configuration sections to accurately reflect the configuration options available from both [`random-access-idb`](https://github.com/zacharygriffee/random-access-idb) and [`RandomAccessLayeredStorage`](https://github.com/zacharygriffee/random-access-layered-storage). This ensures that users have clear and precise guidance on how to configure and utilize your library effectively.
-
----
-
 # random-access-idb-with-overlay
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
