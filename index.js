@@ -1,4 +1,4 @@
-import {RandomAccessLayeredStorage} from "random-access-layered-storage";
+import {RandomAccessLayeredStorage} from "random-access-layered-storage@latest";
 import {createFile} from "@zacharygriffee/random-access-idb";
 
 export class RandomAccessIdbWithOverlay extends RandomAccessLayeredStorage {
