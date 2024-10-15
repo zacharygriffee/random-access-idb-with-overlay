@@ -29,7 +29,7 @@
 
 ## Installation
 
-You can install **random-access-idb-with-overlay** via [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/):
+You can install **random-access-idb-with-overlay** via [npm](https://www.npmjs.com/):
 
 ```bash
 # Using npm
