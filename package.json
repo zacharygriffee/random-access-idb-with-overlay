@@ -1,6 +1,6 @@
 {
   "name": "random-access-idb-with-overlay",
-  "version": "1.0.2",
+  "version": "1.0.21",
   "description": "A combined storage solution layering RandomAccessLayeredStorage over random-access-idb.",
   "main": "index.js",
   "type": "module",
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/zacharygriffee/random-access-idb-with-overlay#readme",
   "dependencies": {
-    "@zacharygriffee/random-access-idb": "^4.1.12",
+    "@zacharygriffee/random-access-idb": "^4.1.2",
     "random-access-layered-storage": "^1.0.4"
   },
   "devDependencies": {
