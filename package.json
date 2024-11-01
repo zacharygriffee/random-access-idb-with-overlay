@@ -1,6 +1,6 @@
 {
   "name": "random-access-idb-with-overlay",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "A combined storage solution layering RandomAccessLayeredStorage over random-access-idb.",
   "main": "index.js",
   "type": "module",
